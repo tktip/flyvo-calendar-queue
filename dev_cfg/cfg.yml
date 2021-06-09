@@ -1,0 +1,18 @@
+debug: true
+
+calendarCreateEventUrl: http://google-calendar:5555
+queueName: calendar.sync
+errorQueueName: calendar.error
+activemqBrokers:
+  - "amq1:5672"
+  - "amq2:5672"
+  - "amq3:5672"
+
+backoffBase: 2
+baseBackoffTime: 4h
+maxBackoff: 4h
+
+dontUseBackoff: true
+exponentBase: 2
+baseWaitTime: 2s
+maxSleepTime: 5s

@@ -1,0 +1,38 @@
+# github.com/Azure/go-amqp v0.13.1
+github.com/Azure/go-amqp
+github.com/Azure/go-amqp/internal/testconn
+# github.com/gin-contrib/sse v0.1.0
+github.com/gin-contrib/sse
+# github.com/gin-gonic/gin v1.4.0
+github.com/gin-gonic/gin
+github.com/gin-gonic/gin/binding
+github.com/gin-gonic/gin/internal/json
+github.com/gin-gonic/gin/render
+# github.com/golang/protobuf v1.3.1
+github.com/golang/protobuf/proto
+# github.com/haraldfw/cfger v0.0.0-20190806095849-dff35df72a8f
+github.com/haraldfw/cfger
+# github.com/json-iterator/go v1.1.6
+github.com/json-iterator/go
+# github.com/konsorten/go-windows-terminal-sequences v1.0.3
+github.com/konsorten/go-windows-terminal-sequences
+# github.com/mattn/go-isatty v0.0.8
+github.com/mattn/go-isatty
+# github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd
+github.com/modern-go/concurrent
+# github.com/modern-go/reflect2 v1.0.1
+github.com/modern-go/reflect2
+# github.com/pkg/errors v0.9.1
+github.com/pkg/errors
+# github.com/sirupsen/logrus v1.6.0
+github.com/sirupsen/logrus
+# github.com/tktip/go-amq v0.0.0-20210615090854-3ed375adf65e
+github.com/tktip/go-amq/pkg/amq
+# github.com/ugorji/go/codec v1.1.5-pre
+github.com/ugorji/go/codec
+# golang.org/x/sys v0.0.0-20190813064441-fde4db37ae7a
+golang.org/x/sys/unix
+# gopkg.in/go-playground/validator.v8 v8.18.2
+gopkg.in/go-playground/validator.v8
+# gopkg.in/yaml.v2 v2.2.4
+gopkg.in/yaml.v2
